@@ -1,0 +1,168 @@
+[
+  {
+    "name": "Clinic-1",
+    "clinic_name": "Appolo Hospital",
+    "address": "Patna",
+    "doctors": [
+      {
+        "DoctorName": "Prasant kumar",
+        "type": "dermotolist",
+        "charge": "200",
+        "slots": [
+          {
+            "temp": false,
+            "time": "3:00"
+          },
+          {
+            "temp": true,
+            "time": "3:20"
+          },
+          {
+            "temp": true,
+            "time": "3:40"
+          }
+        ]
+      },
+      {
+        "DoctorName": "Aman kumar",
+        "type": "radiology",
+        "charge": "300",
+        "slots": [
+          {
+            "temp": true,
+            "time": "3:00"
+          },
+          {
+            "temp": true,
+            "time": "3:20"
+          },
+          {
+            "temp": true,
+            "time": "3:40"
+          }
+        ]
+      },
+      {
+        "DoctorName": "Arun Kumar Singh",
+        "type": "Dentist",
+        "charge": "300",
+        "slots": [
+          {
+            "temp": true,
+            "time": "3:00"
+          },
+          {
+            "temp": true,
+            "time": "3:20"
+          },
+          {
+            "temp": true,
+            "time": "3:40"
+          }
+        ]
+      },
+      {
+        "DoctorName": "Nitish Kumar",
+        "type": "physiology",
+        "charge": "300",
+        "slots": [
+          {
+            "temp": true,
+            "time": "3:00"
+          },
+          {
+            "temp": true,
+            "time": "3:20"
+          },
+          {
+            "temp": true,
+            "time": "3:40"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Clinic-2",
+    "clinic_name": "Surya Hospital",
+    "address": "Delhi",
+    "doctors": [
+      {
+        "DoctorName": "Kishor kumar",
+        "type": "dermotolist",
+        "charge": "200",
+        "slots": [
+          {
+            "temp": false,
+            "time": "3:00"
+          },
+          {
+            "temp": true,
+            "time": "3:20"
+          },
+          {
+            "temp": true,
+            "time": "3:40"
+          }
+        ]
+      },
+      {
+        "DoctorName": "Ranjeet Modi MBBS",
+        "type": "radiology",
+        "charge": "300",
+        "slots": [
+          {
+            "temp": true,
+            "time": "3:00"
+          },
+          {
+            "temp": true,
+            "time": "3:20"
+          },
+          {
+            "temp": true,
+            "time": "3:40"
+          }
+        ]
+      },
+      {
+        "DoctorName": "Amit Singh",
+        "type": "Dentist",
+        "charge": "300",
+        "slots": [
+          {
+            "temp": true,
+            "time": "3:00"
+          },
+          {
+            "temp": true,
+            "time": "3:20"
+          },
+          {
+            "temp": true,
+            "time": "3:40"
+          }
+        ]
+      },
+      {
+        "DoctorName": "Arun Kumar jha",
+        "type": "physiology",
+        "charge": "300",
+        "slots": [
+          {
+            "temp": true,
+            "time": "3:00"
+          },
+          {
+            "temp": true,
+            "time": "3:20"
+          },
+          {
+            "temp": true,
+            "time": "3:40"
+          }
+        ]
+      }
+    ]
+  }
+]
